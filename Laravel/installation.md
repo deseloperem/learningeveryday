@@ -19,7 +19,7 @@ And then, move your example file to .env in the root folder.
 
 $`'mv .env.example .env'`
 
->I also created `.env.example` file for share with the team. The developers in the team will refer to this env.example then modify as their preference. Except the API key.
+>I also created `.env.example` file to share with the team. The developers in the team will refer to this env.example then modify as their preference. Except the API key.
 
 Now you can see the .env file under the root folder. In the .env file, if you don’t have your api key , __**run the key generator again**__. 
 
@@ -32,3 +32,5 @@ $`php artisan key:generate`
 - localhost
 - Livereload
 - Browser Sync
+
+
