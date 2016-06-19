@@ -1,5 +1,5 @@
 # Learning Everyday
-commits of new skills that I learn
+Commits of new skills
 
-## Category
-Laravel 5.2
+## Skills
+- Laravel 5.2
