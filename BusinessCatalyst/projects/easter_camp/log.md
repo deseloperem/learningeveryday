@@ -3,7 +3,10 @@
 
 SiteArea | Module | Detail | Note
 --- | --- | --- | ---
+Camper/Add | Registration Type | Added countdown on earlybird cut-off rego types | -
 
-Camper/Add | Registration Type | Added countdown on earlybird cut-off rego types
-<!-- *Still* | `renders` | **nicely**
+
+<!-- Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
 1 | 2 | 3 -->
